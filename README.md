@@ -1,0 +1,1 @@
+This example demonstrates an uncommon error in ActionScript related to default parameters and null values.  When a null value is provided for a parameter that has a default value, ActionScript throws an error instead of using the default value.  The solution shows how to handle null values explicitly to avoid this issue.
